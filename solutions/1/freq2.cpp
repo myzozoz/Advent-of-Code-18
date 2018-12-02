@@ -16,11 +16,11 @@ int main () {
   int frequency = 0;
   frequencies[0] = 0;
   for (int i = 0; ;i++) {
-    cout << "iteration " << i << "\n";
+    //cout << "iteration " << i << "\n";
     int a = i % 1000;
     frequency += integers[a];
 
-    cout << "Searching for " << frequency << "\n";
+    //cout << "Searching for " << frequency << "\n";
     if (integers[a] != 0 && contains(frequencies, frequency, i+1)){
       break;
     }
