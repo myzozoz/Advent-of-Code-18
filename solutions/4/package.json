@@ -1,0 +1,12 @@
+{
+  "name": "aoc18-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sleepy.js",
+  "scripts": {
+    "start": "node sleepy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "make",
+  "license": "ISC"
+}

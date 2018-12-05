@@ -1,0 +1,12 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "Advent of Code 2018 - Day 3",
+  "main": "sqinch.js",
+  "scripts": {
+    "start": "node sqinch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
