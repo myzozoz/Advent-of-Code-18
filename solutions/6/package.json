@@ -1,0 +1,12 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "day 6",
+  "main": "manh.js",
+  "scripts": {
+    "start": "node manh.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "make",
+  "license": "ISC"
+}

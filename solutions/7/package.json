@@ -1,0 +1,12 @@
+{
+  "name": "7",
+  "version": "1.0.0",
+  "description": "day 7 aoc '18",
+  "main": "instr.js",
+  "scripts": {
+    "start": "node instr.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "make",
+  "license": "ISC"
+}
