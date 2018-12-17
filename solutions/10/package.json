@@ -1,0 +1,17 @@
+{
+  "name": "10",
+  "version": "1.0.0",
+  "description": "Day 10",
+  "main": "msg.js",
+  "scripts": {
+    "start": "node --max_old_space_size=4096 msg.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "make",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
+}
